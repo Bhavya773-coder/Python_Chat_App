@@ -7,4 +7,6 @@ This is a simple chat app made in the python Language
 2.Run the client.py file in client side or another window
 3.Now make sure your server.py file is waiting for the host
 4.Now enter the ip adress or Host name in client side to connected
-5.After connection server.py should be saying sonnected massage.
+5.After connection server.py should be saying connected massage.
+6.Now you are good to go.
+
